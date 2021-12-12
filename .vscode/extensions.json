@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "banacorn.agda-mode",
+        "arrterian.nix-env-selector",
+        "bbenoist.nix"
+    ]
+}
