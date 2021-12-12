@@ -1,5 +1,5 @@
 {
-  description = "Agda project";
+  description = "Srid PLFA";
 
   inputs = {
     flake-utils.url = "github:numtide/flake-utils";
