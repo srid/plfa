@@ -1,5 +1,5 @@
 
-module Naturals where
+module PLFA.Part1.Naturals where
 
 import Relation.Binary.PropositionalEquality as Eq
 open Eq using (_≡_; refl)
